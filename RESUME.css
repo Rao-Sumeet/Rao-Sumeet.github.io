@@ -1,0 +1,77 @@
+ 
+  body{
+            background-image: url(Images/asphalt_texture409.jpg);
+        }   
+    
+
+
+ .firstparah{
+          margin-left: 2%; margin-right: 2%; margin-top: 2%; height:auto; background-color: white;
+            }
+
+      .first-row{
+         height: auto; 
+               }     
+ 
+      .first{
+               color:black ;  height: 381px; 
+             }
+   
+      .second{
+                background-color:rgb(31, 16, 78); color:white ; text-align: center; height: 127px ; padding-top: 30px;               
+             }
+  
+   .third{
+            background-color:rgb(31, 16, 78); color:white ; text-align: center; height: 127px ; padding-top: 25px; 
+         }
+
+    .SECONDparah{
+                     height: auto; margin-left: 2%; margin-right: 2%; width: auto ; background-color: white;
+                 }     
+
+     .aaa{ 
+             height: auto ; margin-left: 1% ; margin-right: 1%; margin-top: 2% ; margin-bottom: 2%;  text-align: left;
+           }    
+
+      .bbb{
+                font-family: sans-serif ; color: inherit; line-height: 1em ; letter-spacing: 1px ; font-size: 40px;
+            }   
+
+      .quotee{
+                color: rgb(255,51,51) ; line-height: 1.3em ; font-family: "Montserrat", sans-serif; font-weight: 700; font-style: normal; letter-spacing: 3px; font-size: 14px;    
+                }
+
+      .myself{ letter-spacing: 1px ;font-size: 15px ;text-align: justify; font-weight: 400 ;font: 13px/1.7 , sans-serif; line-height: 20px ; font-family: courier ; 
+               }        
+
+      .THIRDparah{
+                    height: auto;  margin-left: 2%; margin-right: 2%; margin-bottom: 5px; width: auto ; background-color:rgb(242, 242, 242) ; margin-bottom : 5px ; 
+                  }          
+
+      .ccc{
+             margin-left: 1% ; margin-right: 1%; margin-top: 3% ; margin-bottom: 2%;  text-align:center; 
+           }          
+
+      .ddd{
+               font-family: ddd;
+                src: url( /fonts/antonio/Antonio-Light.ttf );
+            }
+           
+         .eee{ 
+                  letter-spacing: 0.5px ;font-size: 13px ;text-align: justify; font-weight: 400 ;font: 13px/1.7 , sans-serif ; line-height: 20px;  font-family: courier ;  text-align:center; 
+                  }
+  
+            .fff{
+                      margin-top: 5% ; 
+                  }
+                  
+            .qualities {
+                           letter-spacing: 1px ;font-size: 13px ;text-align: justify; font-weight: 400 ;font: 13px/1.7 , sans-serif ; text-align:center; line-height: 20px;  font-family: courier ;  margin-top:16px;
+                        }        
+        
+            .heading {
+                        margin-top:20px; letter-spacing: 3px; font-size: 16px ; 
+                      }
+         .divider-dynamic_two{
+            height: 40px;
+         }

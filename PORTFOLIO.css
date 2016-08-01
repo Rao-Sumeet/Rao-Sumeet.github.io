@@ -1,0 +1,92 @@
+
+ body{
+            background-image: url(Images/asphalt_texture409.jpg);
+            }   
+    
+   	.firstparah{
+          margin-left: 30px; margin-right: 30px; margin-top: 15px; height:auto; background-color: white;
+            }
+
+      .first-row{
+         height: auto; 
+               }     
+ 
+      .first{
+   		color:black ;  height: 381px; 
+   		    }
+   
+   	.second{
+   	   background-color:rgb(31, 16, 78); color:white ; text-align: center; height: 127px ; padding-top: 30px;               
+  	          }
+  
+  	.third{
+		   background-color:rgb(31, 16, 78); color:white ; text-align: center; height: 127px ; padding-top: 25px; 
+            }
+
+    .SECONDparah{
+        height: auto; width: auto ; margin-left: 30px; margin-right: 30px; margin-bottom: 5px; background-color: white;
+          }     
+
+    .seven{
+	           	height: auto; color:black;  padding-top: 25px ; padding-right: 40px ; padding-bottom: 40px; padding-left: 40px; margin: 0px; 
+            }    	
+       
+	 .eight{
+		        font-weight: 300 ; font-family: sans-serif ; color: inherit; line-height: 1.5em ; font-size: 32px ; letter-spacing: 1px ;
+            }
+
+	 .quotee{
+             border-left: 2px solid #e74c3c; border-left-width: 2px; border-left-style: solid ; border-left-color: rgb(231, 76, 60); color: red ; margin: 14px 0 ; padding-top: 4px; margin: 0; line-height: 1.3em ; font-family: "Montserrat", sans-serif; font-weight: 700; font-style: normal; letter-spacing: 3px;font-size: 14px;    
+            }
+
+    .nine{
+	         	height: auto;	color:black; 	    	
+	       }
+
+	    .ten{
+	           	height: auto;	color:black; 	    	
+	      }
+
+     .divider-dynamic{
+            height: 10px;
+         }    
+
+    .eleven{
+		height: auto;	color:black;     	
+	      }
+
+    .heading {
+          letter-spacing: 3px; font-size: 16px ; text-align: center ;
+          }
+
+    .qualities {
+             letter-spacing: 1px ;font-size: 13px ;text-align: justify; font-weight: 400 ;font: 13px/1.7 , sans-serif ; text-align:center; line-height: 20px;  font-family: courier ;
+               }        
+
+      .twelve{
+                height: 470px; padding: 0px ; margin: 0px ;
+            }
+      
+      .thirteen{
+                  height: 440px ; color: black ; background-color: rgb(230, 230, 230) ; padding-top: 25px ;padding-right: 50px; padding-bottom: 40px; padding-left: 50px ;       
+               }    
+
+      .fourteen{
+                    font-weight: 300 ; font-family: sans-serif ; color: inherit; line-height: 1.5em ; font-size: 32px ; letter-spacing: 1px ;
+                  }                     
+
+      .info{
+               box-sizing: border-box; width: 100% ; margin-bottom: 20px ; 
+            }
+
+      .fifteen{
+                letter-spacing: 1px; font-weight: bold; font-size: 12px ;
+            } 
+
+      .sixteen {
+                font-size: 14px ;text-align: justify; font-weight: 200 ;font: 13px/1.7 , sans-serif ; font-family: courier ;line-height: 20px ;
+                }                    
+
+      .divider-dynamic_two{
+            height: 10px;
+                     }    
